@@ -1,0 +1,2 @@
+# bakama
+all my projects
